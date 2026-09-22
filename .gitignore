@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# CUDA / PyTorch build artifacts
+build/
+dist/
+*.egg-info/
+
+# Model files
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
+# Logs and benchmark output
+*.log
+logs/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
