@@ -43,6 +43,7 @@ NVIDIA GeForce RTX 4070 Ti, CUDA, PyTorch, and Docker.
 
 docs/
     Benchmark results and technical notes
+```
 
 ## Benchmark Results
 
